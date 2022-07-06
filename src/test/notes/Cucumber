@@ -1,0 +1,2 @@
+1) mvn clean install "-Dcucumber.obtions=tags @Smoke"
+2) mvn clean install -Psmoke --> целый класс
